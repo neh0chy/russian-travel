@@ -8,16 +8,9 @@
   color: #ffffff;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 767px), screen and (max-width: 1023px) {
   .place__paragraph {
     font-size: 16px;
-    line-height: 26.08px;
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .place__paragraph {
-    font-size: 16px;
-    line-height: 26.08px;
+    line-height: 26px;
   }
 }

@@ -15,7 +15,7 @@
 
 .cover__background::before {
   content: '';
-  position: absolute ;
+  position: absolute;
   background: rgba(42,44,47);
   width: 100%;
   height: 100%;
