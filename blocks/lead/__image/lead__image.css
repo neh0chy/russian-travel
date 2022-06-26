@@ -3,7 +3,7 @@
   padding-top: 64px;
 }
 
-@media screen and (max-width: 1023px), screen and (max-width: 1279px) {
+@media screen and (max-width: 1279px) {
   .lead__image {
     padding-top: 56px;
   }
